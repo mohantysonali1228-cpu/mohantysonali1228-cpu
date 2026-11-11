@@ -27,7 +27,7 @@ responsive, and user-friendly web applications.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sonali-mohanty-7b">
+<a href="https://www.linkedin.com/in/sonali-mohanty-7b18a7371/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
