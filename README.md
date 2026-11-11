@@ -75,5 +75,29 @@ responsive, and user-friendly web applications.
 ---
 
 ## 💜 Learning | Building | Growing
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mohantysonali1228-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="180"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohantysonali1228-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  height="180"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=mohantysonali1228-cpu&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+</div>
 
 ⭐ Thanks for visiting my GitHub profile!
