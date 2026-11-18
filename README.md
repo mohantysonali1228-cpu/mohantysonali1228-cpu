@@ -75,6 +75,9 @@ responsive, and user-friendly web applications.
 ---
 
 ## 💜 Learning | Building | Growing
+## 📊 My GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohantysonali1228-cpu&show_icons=true&theme=default&rank_icon=default&include_all_commits=false&custom_title=Sonali%20Mohanty's%20GitHub%20Stats)
 # 📊 GitHub Stats
 
 <div align="center">
